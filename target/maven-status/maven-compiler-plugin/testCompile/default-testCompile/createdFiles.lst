@@ -1,0 +1,14 @@
+testCases\RegistrationTest.class
+pageObjects\HomePage.class
+pageObjects\MyAccountPage.class
+testCases\HomePageTest.class
+pageObjects\RegistrationPage.class
+testCases\BaseClass.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+utilities\XLUtility.class
+utilities\ExtentReportManager.class
+testCases\LoginPageTest.class
+testCases\LoginTestWithDDT.class
+utilities\DataProviders.class
+testCases\CricTest.class
